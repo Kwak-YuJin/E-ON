@@ -1,0 +1,3 @@
+﻿  소스.c
+c:\users\yujin\desktop\e-on\e-on 03\e-on 03\소스.c(18): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+  E-ON 03.vcxproj -> C:\Users\YuJin\Desktop\E-oN\E-ON 03\Debug\E-ON 03.exe
